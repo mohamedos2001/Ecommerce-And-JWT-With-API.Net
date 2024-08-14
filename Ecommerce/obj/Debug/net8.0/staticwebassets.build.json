@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5PkQqAL890iljBOU/Eim7TE+CB/VfshDtD2BnxSgMTQ=",
+  "Source": "Ecommerce",
+  "BasePath": "_content/Ecommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecommerce\\wwwroot",
+      "Source": "Ecommerce",
+      "ContentRoot": "D:\\Studydotnet\\Ecommerce\\Ecommerce\\wwwroot\\",
+      "BasePath": "_content/Ecommerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
